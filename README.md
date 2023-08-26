@@ -9,6 +9,10 @@ Expensify
 
 The application was developed using test-driven approach in an Agile Development Process.
 
+## Stable
+
+https://git.cs.dal.ca/courses/2022-summer/csci-5308/group-7
+
 ## Tools
 1. HTML
 2. CSS
